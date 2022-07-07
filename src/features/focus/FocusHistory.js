@@ -53,11 +53,11 @@ const styles = StyleSheet.create({
   },
   historyItem: (status) => ({
     color: status > 1 ? 'red' : '#58eb34',
-    fonstSize: 16,
+    fontSize: 16,
   }),
   title: {
     color: 'white',
-    fonstSize: 24,
+    fontSize: 24,
   },
   clearContainer: {
     alignItems: 'center',
